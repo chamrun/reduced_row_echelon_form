@@ -23,7 +23,6 @@ There are two main functions in this code:
 Here is an example of how to use these functions:
 
 ```python
-import numpy as np
 
 matrix = input_matrix()
 reduced_matrix = find_reduced_row_echelon_form(matrix)
