@@ -2,6 +2,12 @@ import numpy as np
 
 
 def input_matrix() -> np.ndarray:
+    """
+    Input a matrix from the user.
+
+    Returns:
+        np.ndarray: The matrix input by the user.
+    """
     rows = int(input("Enter the number of rows: "))
     cols = int(input("Enter the number of columns: "))
     matrix = np.zeros((rows, cols))
@@ -14,6 +20,14 @@ def input_matrix() -> np.ndarray:
 
 
 def find_reduced_row_echelon_form(matrix: np.ndarray) -> np.ndarray:
+    """Find the reduced row echelon form of a matrix.
+
+    Args:
+        matrix (np.ndarray): The matrix to find the reduced row echelon form of.
+
+    Returns:
+        np.ndarray: The reduced row echelon form of the matrix.
+    """
     matrix = matrix.astype(float)
     rows, cols = matrix.shape
     lead = 0
