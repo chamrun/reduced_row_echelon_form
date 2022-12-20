@@ -1,4 +1,4 @@
-from calculator import find_reduced_row_echelon_form, input_matrix
+from reduced_row_echelon_form import find_reduced_row_echelon_form, input_matrix
 import pandas as pd
 
 
