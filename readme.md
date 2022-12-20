@@ -39,5 +39,7 @@ symbolic elements.
 
 - [Reduced Row Echelon Form](https://en.wikipedia.org/wiki/Row_echelon_form#Reduced_row_echelon_form) on Wikipedia
 - [Row Echelon Form](https://mathworld.wolfram.com/RowEchelonForm.html) on MathWorld
-- [Row Echelon Form and Reduced Row Echelon Form](https://www.math.ubc.ca/~cass/courses/m308-02a/docs/RowEchelonForm.pdf)
-  - Notes from the University of British Columbia
+
+[//]: # (- [Row Echelon Form and Reduced Row Echelon Form]&#40;https://www.math.ubc.ca/~cass/courses/m308-02a/docs/RowEchelonForm.pdf&#41;)
+
+[//]: # (  - Notes from the University of British Columbia)
