@@ -21,7 +21,8 @@ def input_matrix() -> np.ndarray:
 
 
 def find_reduced_row_echelon_form(matrix: np.ndarray) -> np.ndarray:
-    """Find the reduced row echelon form of a matrix.
+    """
+    Find the reduced row echelon form of a matrix.
 
     Args:
         matrix (np.ndarray): The matrix to find the reduced row echelon form of.
